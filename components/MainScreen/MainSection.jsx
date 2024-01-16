@@ -12,7 +12,7 @@ const MainSection = () => {
     <TouchableOpacity onPress={()=> {
     setToken()
     }}>
-      <Text>MainSection</Text>
+      <Text></Text>
     </TouchableOpacity>
   )
 }
